@@ -9,7 +9,17 @@ hr {
 	margin-right:-15px
 }
 
-li {
+div.spaced-list > ul > li {
 	padding-bottom: 10px;
 }
+
+div.tight-list > ul > li {
+	padding-bottom: 0px;
+}
+
+
+a {
+	color: blue;
+}
+
 
