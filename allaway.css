@@ -22,4 +22,10 @@ a {
 	color: blue;
 }
 
+div.cats > p > img {
+	width: 100px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
 
